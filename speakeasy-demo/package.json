@@ -1,0 +1,12 @@
+{
+  "name": "speakeasy-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "speakeasy": "^2.0.0"
+  }
+}

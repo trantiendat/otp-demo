@@ -1,0 +1,14 @@
+{
+  "name": "fastify-session-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "fastify start server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.14.0",
+    "fastify-cli": "^2.9.0",
+    "fastify-plugin": "^3.0.0"
+  }
+}
